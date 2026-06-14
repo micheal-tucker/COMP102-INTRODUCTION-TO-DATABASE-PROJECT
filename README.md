@@ -65,9 +65,4 @@ You can override these with environment variables:
 - `CLINIC_DB_POOL_SIZE`
 - `CLINIC_DB_CONNECTION_TIMEOUT`
 
-## Logging
 
-The app writes operational logs to `clinic_system.log` in the project folder by default. You can override logging with:
-
-- `CLINIC_LOG_FILE`
-- `CLINIC_LOG_LEVEL`
